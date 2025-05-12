@@ -1,7 +1,0 @@
-{
-    "input_dim": 7,
-    "airfoil_vocab_size": 32,
-    "hidden_size": 317,
-    "dropout": 0.2080432837903186,
-    "lr": 0.0015850992731469506
-}
